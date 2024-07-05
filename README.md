@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @muskan57s
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can contact me through my Email Id muskan.singh8582@gmail.com
+- 👀 I’m interested in... web development
+- 🌱 I’m currently learning... DSA,Next.js
+- 💞️ I’m looking to collaborate on ...Any open source project involving Web Development!
+- 📫 you can contact me... through my Email Id muskan.singh8582@gmail.com
 
 - 😄 Pronouns: she/her
 
